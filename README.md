@@ -79,6 +79,25 @@ streamify-dashboard/
    - Efficient data filtering
    - Memoized computations
    - Optimized sorting algorithms
+  
+## 🚀 Getting Started
+
+### Prerequisites
+- npm or yarn
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/akalyashanmugam/streamify-analytics-dashboard.git
+
+# Install dependencies
+cd streamify-dashboard
+npm install
+
+# Start development server
+npm run dev
+```
 
 ## 📈 Future Enhancements
 
